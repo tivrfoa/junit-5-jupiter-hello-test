@@ -7,6 +7,7 @@ public class Hello {
     }
 
     public String getHello() {
+        System.out.println("Hi github action");
         return "Hello =)";
     }
 }
